@@ -11,8 +11,8 @@
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saptaparna-dutta-21730133a/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saptaparnadutta13@gmail.com)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/yourprofile](https://www.instagram.com/saptaparna_24?igsh=MXFiOTJ5dTV6eGd5cQ==))
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/share/16DRqWDYFP/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/saptaparna_24?igsh=MXFiOTJ5dTV6eGd5cQ==)
 
 
 ---
